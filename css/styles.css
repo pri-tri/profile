@@ -106,23 +106,11 @@ footer {
 .main-bear-lake {
     max-width: 100%;
     height: auto;
-    opacity: 1;
+    opacity: 0.75;
 }
 
 .profile-pic{
     border-radius: 50%;
-}
-
-.top-cloud {
-    position: absolute;
-    right: 300px;
-    top: 50px;
-}
-
-.bottom-cloud {
-    position: absolute;
-    left: 250px;
-    bottom: 300px;
 }
 
 .skill-row {
