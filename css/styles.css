@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Rosarivo", serif;
+    color: #40514E;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: "Sacramento", cursive;
+    margin: 75px auto 0 auto;
+    font-weight:normal
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 1.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+    padding: 10px;
+}
+
+h3 {
+    color: #f2aaaa;
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #f2aaaa;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+    margin: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border-color: #f5c6d3;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 6%;
+    margin: 100px auto;
+}
+
+footer {
+    background-color: #ddf3f5;
+    padding: 30px;
+}
+
+.BUTTON_ALR {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: "Rosarivo", serif;
+    padding: 15px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.BUTTON_ALR:hover {
+    background: #F5C6D3;
+    border: solid #FFFFFF 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.top-container {
+    background-color: #ddf3f5;
+    position: relative;
+    padding-top: 0px;
+    margin: 0 auto; 
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.text-block {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.black-font{
+    color: white;
+    text-shadow: 2px 2px 4px #000000; 
+}
+
+.main-bear-lake {
+    max-width: 100%;
+    height: auto;
+    opacity: 1;
+}
+
+.profile-pic{
+    border-radius: 50%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.angular-icon {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.node-icon {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.copyright {
+    color: #66BFBF;
+    font-size: 0.75rem;
+}
+
+.profile-text {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-text {
+    width: 30%;
+    margin: 40px auto 60px;
+}
